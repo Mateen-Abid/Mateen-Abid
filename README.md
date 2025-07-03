@@ -96,4 +96,4 @@ My journey so far:
 🔗 [LinkedIn](https://www.linkedin.com/in/mateen-abid-77a5ba246)  
 📄 [View Resume (PDF)](mailto:mateenofficial42@gmail.com)  
 
-💡 Open to freelance gigs, internships, and full-time opportunities in Data Science, Machine Learning, and AI Engineering.
+💡 Open to freelance and full-time opportunities in Data Science, Machine Learning, and AI Engineering.
