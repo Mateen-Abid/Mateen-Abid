@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Mateen Abid  
-🎓 Data Science Graduate | 📊 Data Analyst & Engineer | 🤖 AI Innovator  
+🎓 Data Science Graduate | 📊 Data Scientist & Engineer | 🤖 AI Innovator  
 
 💼 Interned at OZI Technology & Led Academic Projects | 🇵🇰 Based in Lahore, Pakistan  
 
@@ -42,14 +42,22 @@ My journey so far:
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3E65A2?style=for-the-badge)
 
-### 🤖 Machine Learning / AI  
+### 🤖 Machine Learning  
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-EC4E24?style=for-the-badge)
+![Random Forest](https://img.shields.io/badge/-Random%20Forest-228B22?style=for-the-badge)
+![SVM](https://img.shields.io/badge/-Support%20Vector%20Machine-5B9BD5?style=for-the-badge)
+![KNN](https://img.shields.io/badge/-K--Nearest%20Neighbors-FFA500?style=for-the-badge)
+![Naive Bayes](https://img.shields.io/badge/-Naive%20Bayes-8A2BE2?style=for-the-badge)
+![Weka](https://img.shields.io/badge/-Weka-2C2C2C?style=for-the-badge)
+
+### 🧠 Deep Learning  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![YOLO](https://img.shields.io/badge/-YOLO-000000?style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 🧠 NLP & Data Projects  
+### 📚 NLP & Data Projects  
 ![NLTK](https://img.shields.io/badge/-NLTK-4B8BBE?style=for-the-badge)
 ![SpaCy](https://img.shields.io/badge/-SpaCy-2C5BB4?style=for-the-badge)
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-8B8B8B?style=for-the-badge)
