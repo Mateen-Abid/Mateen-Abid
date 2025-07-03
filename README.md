@@ -1,5 +1,3 @@
-# Save the generated GitHub profile README as a markdown file
-readme_content = """
 # 👋 Hi, I'm Mateen Abid  
 🎓 Data Science Graduate | 📊 Data Analyst & Engineer | 🤖 AI Innovator  
 
@@ -15,25 +13,56 @@ My journey so far:
 - 📊 **Founder of Academic Master Domain** – Led a freelance team delivering high-impact data analysis and business intelligence projects for international academic clients.  
 - 🧠 **AI Competition Head at SOFTEC 2024** – Designed engaging AI challenges and fostered innovation at Pakistan’s leading tech event.  
 - 🐔 **FYP: AI-Powered Poultry Health Monitoring** – Built a YOLO & Deep SORT based deep learning system for real-time chicken health detection using CV.  
+- 🤖 **Generative AI Projects** – Developed LLM-powered chatbots and NLP tools using OpenAI, LangChain, and Hugging Face for interactive and intelligent user experiences.
 
 ---
 
 ## 🛠️ Tech Stack & Tools  
 
+### 🌟 Generative AI & Chatbots  
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-2E2E2E?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 ### 👨‍💻 Languages  
-Python | R | SQL | C++ | HTML/CSS | JavaScript  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### 📊 Data & Visualization  
-Pandas | NumPy | Power BI | Tableau | Matplotlib | Seaborn  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3E65A2?style=for-the-badge)
 
 ### 🤖 Machine Learning / AI  
-Scikit-learn | TensorFlow | PyTorch | YOLO | OpenCV | Deep SORT  
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![YOLO](https://img.shields.io/badge/-YOLO-000000?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 🧠 NLP & Data Projects  
-NLTK | SpaCy | BeautifulSoup | Requests  
+![NLTK](https://img.shields.io/badge/-NLTK-4B8BBE?style=for-the-badge)
+![SpaCy](https://img.shields.io/badge/-SpaCy-2C5BB4?style=for-the-badge)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-8B8B8B?style=for-the-badge)
+![Requests](https://img.shields.io/badge/-Requests-2A6DB8?style=for-the-badge)
 
 ### 🧰 Tools & Platforms  
-Jupyter | Google Colab | Git | Postman | Excel | VS Code | Flask  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ---
 
@@ -45,8 +74,9 @@ Jupyter | Google Colab | Git | Postman | Excel | VS Code | Flask
 | 📊 **ByteBrew Automation Dashboard** | Integrated API-to-SQL ETL with Power BI reports | Python, SQL, Power BI |
 | 🏏 **Asia Cup Match Predictor** | ML models predicting cricket match outcomes | Python, Scikit-learn |
 | 📰 **Fake News Detector** | Classifies fake vs. real news using scraped data | Python, Flask, ML |
-| 💼 **BI Dashboard for Organizations** | Comprehensive insights across KPIs | Power BI, Excel |
-| 🐦 **Twitter Sentiment Analysis** | NLP-based analysis of trending topics | Python, NLP, Matplotlib |
+| 😄 **Facial Emotion Detection** | Detects real-time facial emotions using CV and CNNs | Python, OpenCV, Deep Learning |
+| 🚘 **Autonomous Driving Perceptron** | A simulation-based perception module using classical ML | Python, Scikit-learn |
+| 🐦 **Social Media Sentiment Analysis** | NLP-based analysis of trending tweets and posts | Python, NLP, Matplotlib |
 
 👉 [Explore All Repositories](https://github.com/Mateen-Abid?tab=repositories)
 
@@ -59,11 +89,3 @@ Jupyter | Google Colab | Git | Postman | Excel | VS Code | Flask
 📄 [View Resume (PDF)](mailto:mateenofficial42@gmail.com)  
 
 💡 Open to freelance gigs, internships, and full-time opportunities in Data Science, Machine Learning, and AI Engineering.
-"""
-
-# Save the content to a markdown file
-file_path = "/mnt/data/README_MateenAbid.md"
-with open(file_path, "w") as file:
-    file.write(readme_content)
-
-file_path
