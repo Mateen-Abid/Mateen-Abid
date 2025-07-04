@@ -94,6 +94,6 @@ My journey so far:
 
 📧 mateenofficial42@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mateen-abid-77a5ba246)  
-📄 [View Resume (PDF)](mailto:mateenofficial42@gmail.com)  
+📄 [View Resume (PDF)](https://github.com/Mateen-Abid/My_CV/blob/main/MateenAbid.pdf)  
 
 💡 Open to freelance and full-time opportunities in Data Science, Machine Learning, and AI Engineering.
