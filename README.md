@@ -1,14 +1,15 @@
 # 👋 Hi, I'm Mateen Abid  
 🎓 Data Science Graduate | 📊 Data Scientist & Engineer | 🤖 AI Innovator  
 
-💼 Interned at OZI Technology & Led Academic Projects | 🇵🇰 Based in Lahore, Pakistan  
+💼 Co Founder @Data Fuzeo |Ex Intern @OZI Technology & Led Academic Projects | 🇵🇰 Based in Lahore, Pakistan  
 
 ---
 
 ## 🚀 About Me  
 I'm a Data Science graduate from FAST-NUCES with a passion for solving real-world problems through data, automation, and AI-driven solutions. I thrive on building intelligent systems and delivering insightful analytics.
 
-My journey so far:  
+My journey so far:
+- 🚀 Co-Founder at DataFuzeo – Building AI-powered workflow automation and intelligent data systems that merge Large Language Models (LLMs) with business intelligence to deliver end-to-end data-driven solutions.
 - 🔍 **Data Analyst Intern at OZI Technology** – Automated ETL pipelines from ByteBrew API, integrated with SQL Server & Power BI dashboards for real-time business intelligence.  
 - 📊 **Founder of Academic Master Domain** – Led a freelance team delivering high-impact data analysis and business intelligence projects for international academic clients.  
 - 🧠 **AI Competition Head at SOFTEC 2024** – Designed engaging AI challenges and fostered innovation at Pakistan’s leading tech event.  
@@ -76,15 +77,17 @@ My journey so far:
 
 ## 📈 Featured Projects  
 
-| 🚀 Project Title | Description | Tech Stack |
-|------------------|-------------|------------|
-| 🐔 **AI Poultry Monitoring System** | Real-time chicken disease classification using YOLO & ResNet | Python, OpenCV, TensorFlow |
-| 📊 **ByteBrew Automation Dashboard** | Integrated API-to-SQL ETL with Power BI reports | Python, SQL, Power BI |
-| 🏏 **Asia Cup Match Predictor** | ML models predicting cricket match outcomes | Python, Scikit-learn |
-| 📰 **Fake News Detector** | Classifies fake vs. real news using scraped data | Python, Flask, ML |
-| 😄 **Facial Emotion Detection** | Detects real-time facial emotions using CV and CNNs | Python, OpenCV, Deep Learning |
-| 🚘 **Autonomous Driving Perceptron** | A simulation-based perception module using classical ML | Python, Scikit-learn |
-| 🐦 **Social Media Sentiment Analysis** | NLP-based analysis of trending tweets and posts | Python, NLP, Matplotlib |
+
+| 🚀 Project Title                       | Description                                                                                                                                                                                          | Tech Stack                                      |
+| -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| 🐔 **AI Poultry Monitoring System**    | Real-time chicken disease classification using YOLO & ResNet                                                                                                                                         | Python, OpenCV, TensorFlow                      |
+| 📊 **ByteBrew Automation Dashboard**   | Integrated API-to-SQL ETL with Power BI reports                                                                                                                                                      | Python, SQL, Power BI                           |
+| 🏏 **Asia Cup Match Predictor**        | ML models predicting cricket match outcomes                                                                                                                                                          | Python, Scikit-learn                            |
+| 📰 **Fake News Detector**              | Classifies fake vs. real news using scraped data                                                                                                                                                     | Python, Flask, ML                               |
+| 😄 **Facial Emotion Detection**        | Detects real-time facial emotions using CV and CNNs                                                                                                                                                  | Python, OpenCV, Deep Learning                   |
+| 🚘 **Autonomous Driving Perceptron**   | A simulation-based perception module using classical ML                                                                                                                                              | Python, Scikit-learn                            |
+| 🐦 **Social Media Sentiment Analysis** | NLP-based analysis of trending tweets and posts                                                                                                                                                      | Python, NLP, Matplotlib                         |
+| 🤖 **AURA – LLM-Powered AI Assistant** | Built an advanced conversational AI using LangGraph, RAG, and LangChain; integrates hybrid retrieval pipelines and dynamic context graphs for accurate, human-like responses across diverse domains. | Python, LangChain, LangGraph, FAISS, OpenAI API |
 
 👉 [Explore All Repositories](https://github.com/Mateen-Abid?tab=repositories)
 
