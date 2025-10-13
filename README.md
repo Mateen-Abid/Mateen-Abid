@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mateen Abid  
+# Hi, I'm Mateen Abid  
 🎓 Data Science Graduate | 📊 Data Scientist & AI Engineer | 🤖 AI Innovator  
 
 💼 Co Founder @Data Fuzeo |Ex Intern @OZI Technology & Led Academic Projects | 🇵🇰 Based in Lahore, Pakistan  
