@@ -75,19 +75,17 @@ My journey so far:
 
 ---
 
-## 📈 Featured Projects  
-
-
-| 🚀 Project Title                       | Description                                                                                                                                                                                          | Tech Stack                                      |
-| -------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| 🤖 **AURA – LLM-Powered AI Assistant** | Built an advanced conversational AI using LangGraph, RAG, and LangChain; integrates hybrid retrieval pipelines and dynamic context graphs for accurate, human-like responses across diverse domains. | Python, LangChain, LangGraph, FAISS, OpenAI API |
-| 🐔 **AI Poultry Monitoring System**    | Real-time chicken disease classification using YOLO & ResNet                                                                                                                                         | Python, OpenCV, TensorFlow                      |
-| 📊 **ByteBrew Automation Dashboard**   | Integrated API-to-SQL ETL with Power BI reports                                                                                                                                                      | Python, SQL, Power BI                           |
-| 🏏 **Asia Cup Match Predictor**        | ML models predicting cricket match outcomes                                                                                                                                                          | Python, Scikit-learn                            |
-| 📰 **Fake News Detector**              | Classifies fake vs. real news using scraped data                                                                                                                                                     | Python, Flask, ML                               |
-| 😄 **Facial Emotion Detection**        | Detects real-time facial emotions using CV and CNNs                                                                                                                                                  | Python, OpenCV, Deep Learning                   |
-| 🚘 **Autonomous Driving Perceptron**   | A simulation-based perception module using classical ML                                                                                                                                              | Python, Scikit-learn                            |
-| 🐦 **Social Media Sentiment Analysis** | NLP-based analysis of trending tweets and posts                                                                                                                                                      | Python, NLP, Matplotlib                         |
+| 🚀 Project Title                       | Description                                                                                                                                                                   | Tech Stack                                      |
+| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
+| 🩺 **Healthcare LLM Chatbot**          | A Django-based healthcare assistant using an LLM to provide symptom insights, general guidance, and real-time health responses. Includes user auth and Vercel deployment.     | Django, Python, REST API, LLM                   |
+| 🤖 **AURA – LLM-Powered AI Assistant** | Built an advanced conversational AI using LangGraph, RAG, and LangChain; integrates hybrid retrieval pipelines and dynamic context graphs for accurate, human-like responses. | Python, LangChain, LangGraph, FAISS, OpenAI API |
+| 🐔 **AI Poultry Monitoring System**    | Real-time chicken disease classification using YOLO & ResNet                                                                                                                  | Python, OpenCV, TensorFlow                      |
+| 📊 **ByteBrew Automation Dashboard**   | Integrated API-to-SQL ETL with Power BI reports                                                                                                                               | Python, SQL, Power BI                           |
+| 🏏 **Asia Cup Match Predictor**        | ML models predicting cricket match outcomes                                                                                                                                   | Python, Scikit-learn                            |
+| 📰 **Fake News Detector**              | Classifies fake vs. real news using scraped data                                                                                                                              | Python, Flask, ML                               |
+| 😄 **Facial Emotion Detection**        | Detects real-time facial emotions using CV and CNNs                                                                                                                           | Python, OpenCV, Deep Learning                   |
+| 🚘 **Autonomous Driving Perceptron**   | A simulation-based perception module using classical ML                                                                                                                       | Python, Scikit-learn                            |
+| 🐦 **Social Media Sentiment Analysis** | NLP-based analysis of trending tweets and posts                                                                                                                               | Python, NLP, Matplotlib                         |
 
 👉 [Explore All Repositories](https://github.com/Mateen-Abid?tab=repositories)
 
