@@ -16,9 +16,8 @@ I do not build prototypes. Every system I deliver is production-ready, documente
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| KCA – Government Proposal Automation | Full stack AI SaaS platform automating RFQ/RFP proposal generation. Extracts NAICS codes, compliance requirements, and evaluation criteria from solicitation PDFs to generate 42-page proposals autonomously. | React TypeScript, Django, AWS EC2, OpenAI | [Live]([https://app.kcadesignstudios.net/](https://app.kcadesignstudios.net/)) |
+| KCA – Government Proposal Automation | Full stack AI SaaS platform automating RFQ/RFP proposal generation. Extracts NAICS codes, compliance requirements, and evaluation criteria from solicitation PDFs to generate 42-page proposals autonomously. | React TypeScript, Django, AWS EC2, OpenAI | [Live](https://app.kcadesignstudios.net/) |
 | CareLinx – Healthcare Booking Platform | Production healthcare marketplace with four role-based portals, secure auth, real-time appointment management, and multilingual English/Arabic RTL interface. | React TypeScript, Node.js, Supabase, Tailwind | [Live](https://carelinx.sa) |
-| Homi | Production web application built and deployed end to end. | React, Supabase | 
 | AI Voice Calling Automation | Fully automated AI outbound calling pipeline handling large scale campaigns with real-time concurrency management, phone normalization, CRM write-back, and zero manual intervention. | n8n, Retell AI, Twilio, Google Sheets | Production |
 | AURA – Document Intelligence | RAG system enabling semantic search and natural language Q&A over uploaded PDFs using sentence transformer embeddings and FAISS vector store with citation-aware responses. | Python, LangChain, FAISS, Hugging Face, Flask | Local |
 | CHARM – Poultry Health Monitoring | Real-time AI platform detecting poultry diseases from live video feeds using object detection and classification models, with multi-camera support and smart health alerts. | YOLOv8, BoT-SORT, ResNet50, Django, OpenCV | FYP |
@@ -68,5 +67,4 @@ Designed and led AI challenges at Pakistan's largest student-run tech event, fos
 
 📧 mateenofficial42@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/mateen-abid-77a5ba246)
-📄 [Resume](https://github.com/Mateen-Abid/My_CV/blob/main/Mateen%20Abid%20Resume.pdf)
 🐙 [GitHub Repositories](https://github.com/Mateen-Abid?tab=repositories)
