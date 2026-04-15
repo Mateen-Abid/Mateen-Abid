@@ -1,100 +1,72 @@
-# Hi, I'm Mateen Abid  
-🎓 Data Science Graduate | 📊 Data Scientist & AI Engineer | 🤖 AI Innovator  
-
-💼 Co Founder @Data Fuzeo |Ex Intern @OZI Technology & Led Academic Projects | 🇵🇰 Based in Lahore, Pakistan  
-
----
-
-## 🚀 About Me  
-I'm a Data Science graduate from FAST-NUCES with a passion for solving real-world problems through data, automation, and AI-driven solutions. I thrive on building intelligent systems and delivering insightful analytics.
-
-My journey so far:
-- 🚀 Co-Founder at DataFuzeo – Building AI-powered workflow automation and intelligent data systems that merge Large Language Models (LLMs) with business intelligence to deliver end-to-end data-driven solutions.
-- 🔍 **Data Analyst Intern at OZI Technology** – Automated ETL pipelines from ByteBrew API, integrated with SQL Server & Power BI dashboards for real-time business intelligence.  
-- 📊 **Founder of Academic Master Domain** – Led a freelance team delivering high-impact data analysis and business intelligence projects for international academic clients.  
-- 🧠 **AI Competition Head at SOFTEC 2024** – Designed engaging AI challenges and fostered innovation at Pakistan’s leading tech event.  
-- 🐔 **FYP: AI-Powered Poultry Health Monitoring** – Built a YOLO & Deep SORT based deep learning system for real-time chicken health detection using CV.  
-- 🤖 **Generative AI Projects** – Developed LLM-powered chatbots and NLP tools using OpenAI, LangChain, and Hugging Face for interactive and intelligent user experiences.
+# Mateen Abid
+### Full Stack AI Engineer | Data Scientist | Generative AI & ML Specialist
+📍 Lahore, Pakistan | 💼 Open to Freelance & Full-Time Opportunities
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+## About Me
 
-### 🌟 Generative AI & Chatbots  
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/-LangChain-2E2E2E?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+I am a Data Science graduate from FAST-NUCES and a full stack AI engineer with hands-on production experience building intelligent systems, scalable data pipelines, and AI-driven applications. My work spans generative AI, computer vision, RAG architectures, LLM integrations, voice automation, and full stack web development.
 
-### 👨‍💻 Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 📊 Data & Visualization  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3E65A2?style=for-the-badge)
-
-### 🤖 Machine Learning  
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/-XGBoost-EC4E24?style=for-the-badge)
-![Random Forest](https://img.shields.io/badge/-Random%20Forest-228B22?style=for-the-badge)
-![SVM](https://img.shields.io/badge/-Support%20Vector%20Machine-5B9BD5?style=for-the-badge)
-![KNN](https://img.shields.io/badge/-K--Nearest%20Neighbors-FFA500?style=for-the-badge)
-![Naive Bayes](https://img.shields.io/badge/-Naive%20Bayes-8A2BE2?style=for-the-badge)
-![Weka](https://img.shields.io/badge/-Weka-2C2C2C?style=for-the-badge)
-
-### 🧠 Deep Learning  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![YOLO](https://img.shields.io/badge/-YOLO-000000?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### 📚 NLP & Data Projects  
-![NLTK](https://img.shields.io/badge/-NLTK-4B8BBE?style=for-the-badge)
-![SpaCy](https://img.shields.io/badge/-SpaCy-2C5BB4?style=for-the-badge)
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-8B8B8B?style=for-the-badge)
-![Requests](https://img.shields.io/badge/-Requests-2A6DB8?style=for-the-badge)
-
-### 🧰 Tools & Platforms  
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+I do not build prototypes. Every system I deliver is production-ready, documented, and live.
 
 ---
 
-| 🚀 Project Title                       | Description                                                                                                                                                                   | Tech Stack                                      |
-| -------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| 🩺 **Healthcare LLM Chatbot**          | A Django-based healthcare assistant using an LLM to provide symptom insights, general guidance, and real-time health responses. Includes user auth and Vercel deployment.     | Django, Python, REST API, LLM                   |
-| 🤖 **AURA – LLM-Powered AI Assistant** | Built an advanced conversational AI using LangGraph, RAG, and LangChain; integrates hybrid retrieval pipelines and dynamic context graphs for accurate, human-like responses. | Python, LangChain, LangGraph, FAISS, OpenAI API |
-| 🐔 **AI Poultry Monitoring System**    | Real-time chicken disease classification using YOLO & ResNet                                                                                                                  | Python, OpenCV, TensorFlow                      |
-| 📊 **ByteBrew Automation Dashboard**   | Integrated API-to-SQL ETL with Power BI reports                                                                                                                               | Python, SQL, Power BI                           |
-| 🏏 **Asia Cup Match Predictor**        | ML models predicting cricket match outcomes                                                                                                                                   | Python, Scikit-learn                            |
-| 📰 **Fake News Detector**              | Classifies fake vs. real news using scraped data                                                                                                                              | Python, Flask, ML                               |
-| 😄 **Facial Emotion Detection**        | Detects real-time facial emotions using CV and CNNs                                                                                                                           | Python, OpenCV, Deep Learning                   |
-| 🚘 **Autonomous Driving Perceptron**   | A simulation-based perception module using classical ML                                                                                                                       | Python, Scikit-learn                            |
-| 🐦 **Social Media Sentiment Analysis** | NLP-based analysis of trending tweets and posts                                                                                                                               | Python, NLP, Matplotlib                         |
+## Production Projects
 
-👉 [Explore All Repositories](https://github.com/Mateen-Abid?tab=repositories)
+| Project | Description | Stack | Live |
+|---|---|---|---|
+| KCA – Government Proposal Automation | Full stack AI SaaS platform automating RFQ/RFP proposal generation. Extracts NAICS codes, compliance requirements, and evaluation criteria from solicitation PDFs to generate 42-page proposals autonomously. | React TypeScript, Django, AWS EC2, OpenAI | [Live](http://13.53.46.95:8000) |
+| CareLinx – Healthcare Booking Platform | Production healthcare marketplace with four role-based portals, secure auth, real-time appointment management, and multilingual English/Arabic RTL interface. | React TypeScript, Node.js, Supabase, Tailwind | [Live](https://carelinx.sa) |
+| Homi | Production web application built and deployed end to end. | React, Supabase | [Live](http://35.225.211.202:5000) |
+| AI Voice Calling Automation | Fully automated AI outbound calling pipeline handling large scale campaigns with real-time concurrency management, phone normalization, CRM write-back, and zero manual intervention. | n8n, Retell AI, Twilio, Google Sheets | Production |
+| AURA – Document Intelligence | RAG system enabling semantic search and natural language Q&A over uploaded PDFs using sentence transformer embeddings and FAISS vector store with citation-aware responses. | Python, LangChain, FAISS, Hugging Face, Flask | Local |
+| CHARM – Poultry Health Monitoring | Real-time AI platform detecting poultry diseases from live video feeds using object detection and classification models, with multi-camera support and smart health alerts. | YOLOv8, BoT-SORT, ResNet50, Django, OpenCV | FYP |
 
 ---
 
-## 📬 Let’s Connect  
+## Other Projects
 
-📧 mateenofficial42@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/mateen-abid-77a5ba246)  
-📄 [View Resume (PDF)](https://github.com/Mateen-Abid/My_CV/blob/main/Mateen%20Abid%20Resume.pdf)  
+| Project | Description | Stack |
+|---|---|---|
+| Healthcare LLM Chatbot | Django-based healthcare assistant with symptom insights and real-time health guidance using LLM integration and user authentication. | Django, Python, REST API, LLM |
+| ByteBrew Automation Dashboard | Automated ETL pipeline from ByteBrew API to SQL Server with real-time Power BI business intelligence dashboards. | Python, SQL Server, Power BI |
+| Asia Cup Match Predictor | ML models predicting cricket match outcomes with feature engineering and model evaluation. | Python, Scikit-learn |
+| Fake News Detector | NLP-based classification system detecting fake versus real news using scraped data. | Python, Flask, ML |
+| Facial Emotion Detection | Real-time facial emotion recognition using CNNs and computer vision. | Python, OpenCV, Deep Learning |
+| Social Media Sentiment Analysis | NLP-based sentiment analysis of trending social media content with visualization. | Python, NLP, Matplotlib |
 
-💡 Open to freelance and full-time opportunities in Data Science, Machine Learning, and AI Engineering.
+---
+
+## Tech Stack
+
+**Languages:** Python, JavaScript, TypeScript, SQL, R, C++
+
+**AI and ML:** OpenAI API, Anthropic Claude, LangChain, LangGraph, Hugging Face, FAISS, YOLOv8, ResNet50, TensorFlow, PyTorch, Scikit-learn, OpenCV, NLTK, SpaCy
+
+**Full Stack:** React, Next.js, Node.js, Django, Flask, REST APIs, Supabase, PostgreSQL, SQL Server
+
+**Automation and Voice:** n8n, Retell AI, Twilio, Webhook orchestration
+
+**Cloud and DevOps:** AWS EC2, Google Cloud, Vercel, Git
+
+**Data and BI:** Pandas, NumPy, Power BI, Tableau, Matplotlib, Seaborn
+
+---
+
+## Experience
+
+**Data Analyst Intern, OZI Technology, Lahore**
+Automated ETL pipelines integrating the ByteBrew API with SQL Server and Power BI, delivering real-time business intelligence dashboards for operational decision making.
+
+**AI Competition Head, SOFTEC 2024**
+Designed and led AI challenges at Pakistan's largest student-run tech event, fostering innovation across hundreds of participants.
+
+---
+
+## Let's Connect
+
+📧 mateenofficial42@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/mateen-abid-77a5ba246)
+📄 [Resume](https://github.com/Mateen-Abid/My_CV/blob/main/Mateen%20Abid%20Resume.pdf)
+🐙 [GitHub Repositories](https://github.com/Mateen-Abid?tab=repositories)
